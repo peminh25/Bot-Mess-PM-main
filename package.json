@@ -1,7 +1,8 @@
 {
-    "name": "JRT",
+    "name": "PeMinh25",
     "version": "1.2.15",
-    "description": "Chúc các bạn có một ngày vui vẻ <3",
+    "versionbot": "3.1.3", //*Rảnh quá thêm cái này làm màu tí :)) Mỗi lần update mdl mới là sẽ sửa phiên bản của bot này :)))
+    "description": "Đây là source code đã được fix bởi JRT. Pé Minh chúc bạn có một ngày vui vẻ và bot không bị bay acc <3",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
