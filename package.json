@@ -1,7 +1,7 @@
 {
     "name": "PeMinh25",
     "version": "1.2.15",
-    "versionbot": "3.1.4-beta",
+    "versionbot": "3.2.0",
     "description": "Đây là source code đã được fix bởi JRT. Pé Minh chúc bạn có một ngày vui vẻ và bot không bị bay acc <3",
     "main": "mirai.js",
     "scripts": {
