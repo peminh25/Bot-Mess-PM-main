@@ -1,7 +1,7 @@
 {
     "name": "Nguyễn Quang Minh",
     "version": "1.2.15",
-    "versionbot": "3.1.9-beta",
+    "versionbot": "4.1.2-beta",
     "description": "Đây là source code đã được fix bởi JRT. Phiên bản được Pé Minh chạy thử nghiệm.",
     "main": "mirai.js",
     "scripts": {
