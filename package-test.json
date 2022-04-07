@@ -1,9 +1,9 @@
 {
     "name": "Nguyễn Quang Minh",
     "version": "1.2.15",
-    "versionbot": "5.1.0-beta",
+    "versionbot": "5.1.1",
     "description": "Đây là source code đã được fix bởi JRT. Phiên bản được Pé Minh chạy thử nghiệm.",
-    "infoupdate": "v5.1.0 Có gì mới ? \n- Tối ưu + Nâng cấp thời gian chờ để dùng lại lệnh.\n- Update lệnh mới +teamtag.\n- Tối ưu SRC bot.",
+    "infoupdate": "v5.1.1 Có gì mới ? \n- Fix lỗi không lấy thông tin được của 2 lệnh: info và cardinfo. \n- Thêm joinNoti gửi kèm ảnh luật nhánh 5.\n- Tối ưu SRC bot.",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
