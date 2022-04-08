@@ -1,9 +1,9 @@
 {
     "name": "Nguyễn Quang Minh",
     "version": "1.2.15",
-    "versionbot": "4.1.1",
+    "versionbot": "4.1.2-beta",
     "description": "Đây là source code đã được fix bởi JRT. Pé Minh chúc bạn có một ngày vui vẻ và bot không bị bay acc <3",
-    "infoupdate": "4.1.1 Có gì mới ? \n- Sửa 1 vài thông tin ingame của lệnh +igad\n- Thêm hàm code user only cho 1 số lệnh can thiệp đến hệ thống bot.",
+    "infoupdate": "Bản thử nghiệm 4.1.2 Có gì mới ? \n- Lệnh +banking đã được update.",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
