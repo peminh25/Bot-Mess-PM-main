@@ -1,9 +1,9 @@
 {
     "name": "Nguyễn Quang Minh",
     "version": "1.2.15",
-    "versionbot": "5.1.1",
+    "versionbot": "6.0.0-beta",
     "description": "Đây là source code đã được fix bởi JRT. Phiên bản được Pé Minh chạy thử nghiệm.",
-    "infoupdate": "v5.1.1 Có gì mới ? \n- Fix lỗi không lấy thông tin được của 2 lệnh: info và cardinfo. \n- Thêm joinNoti gửi kèm ảnh luật nhánh 5.\n- Tối ưu SRC bot.",
+    "infoupdate": "Bản beta test v6.0.0 Có gì mới ? \n- Update tính năng mới của lệnh gỡ tin nhắn bot.\n- Thêm joinNoti gửi kèm ảnh luật nhánh 5.\n- Thêm hàm code chỉ Pé Minh mới được dùng trên 1 số lệnh can thiệp đến hệ thống.\n- Tối ưu SRC bot.",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
