@@ -1,6 +1,7 @@
 {
     "name": "Nguyễn Quang Minh",
     "version": "1.2.14",
+    "versionbot": "v6.2.5",
     "description": "Đây là SRC bot dành cho các bạn mới tập chạy bot để trải nghiệm. Pé Minh chúc bạn có 1 ngày vui vẻ nhen :3",
     "main": "mirai.js",
     "scripts": {
