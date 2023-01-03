@@ -1,8 +1,8 @@
 {
     "name": "Nguyễn Quang Minh",
-    "version": "6.2.8",
+    "version": "6.3.0",
     "description": "Đây là SRC bot dành cho các bạn mới tập chạy bot để trải nghiệm. Pé Minh chúc bạn có 1 ngày vui vẻ nhen :3",
-    "infoupdate": "Bản cập nhật khẩn cấp 6.2.8 đã fix lỗi không bật được bot r nhé =))",
+    "infoupdate": "Bản cập nhật 6.3.0 có gì mới ?\n\n+ Tối ưu lệnh sing\n+ Sửa lỗi 1 số lệnh không dùng được.",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
