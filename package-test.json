@@ -1,8 +1,8 @@
 {
     "name": "Nguyễn Quang Minh",
-    "version": "v17.0",
+    "version": "v18.0",
     "versionbot": "6.0.0-beta",
-    "verpm": "7.0",
+    "verpm": "8.0",
     "mirai": "v2",
     "main": "mirai.js",
     "scripts": {
